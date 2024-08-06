@@ -10,3 +10,8 @@ Analyzing customer rental patterns and behavior.
 Examining the relationship between rental duration and return rate.
 Exploring revenue trends and identifying high-value customers.
 Evaluating staff performance based on rental and payment processing.
+
+#### Key Features
+Comprehensive Data: The dataset includes detailed information about movies, customers, rentals, payments, and staff.
+Relational Structure: Tables are connected through foreign keys, allowing for complex queries and analyses.
+Diverse Analyses: Enables exploration of various aspects such as rental trends, customer behavior, revenue analysis, and staff performance.
